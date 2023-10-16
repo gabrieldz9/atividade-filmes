@@ -1,0 +1,16 @@
+.div-catalogo{
+    display: flex;
+    justify-content: space-around;
+}
+.img-exibe-catalogo{
+ width: 250px;
+ height: 300px;
+ padding: auto;
+}
+main,body{
+background-color: rgb(29, 28, 28);
+}
+h1,p{
+    color: aliceblue;
+}
+
